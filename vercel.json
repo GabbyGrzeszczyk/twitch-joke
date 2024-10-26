@@ -1,0 +1,6 @@
+{
+  "routes": [
+    { "src": "/api/jokes", "dest": "/api/jokes.js" }
+  ]
+}
+

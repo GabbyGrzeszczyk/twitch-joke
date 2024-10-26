@@ -1,0 +1,10 @@
+Steps to Deploy on Vercel
+Create a GitHub repository (if you haven't already) and push your project code there.
+
+Sign in to Vercel and connect your GitHub repository.
+
+Deploy the app: Vercel will automatically detect your project as a Node.js application.
+
+Access the API: After deployment, you can access your joke API at something like:
+
+https://your-project-name.vercel.app/api/jokes
